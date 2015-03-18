@@ -1,2 +1,2 @@
 # testing-repo
-this is for only testing purposes. 
+this is only for testing purposes. 
